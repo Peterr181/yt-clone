@@ -1,3 +1,55 @@
+## Youtube Clone 🚀
+This app is a simple youtube clone but without all functionalities. It is fully remaked if it is depends on design and mainly design functionality.
+Videos are gerenated by dummy data actually because I was using rapid api ,,youtube v3'' to generate videos by searching from input but I don't have premium plan and daily it's limited to 500 requests. All functionalities in fetching data from api and searching videos in input are included in this code but for now commented. In close future I will play with Youtube API from google and maybe add this functionality. This app is fully responsive for all devices.
+
+## Screenshots
+
+Desktop:
+![obraz](https://user-images.githubusercontent.com/102172769/226901183-0c5d08ff-7cc1-4b44-b73c-b6d3c67871f6.png)
+
+Mobile: 
+![obraz](https://user-images.githubusercontent.com/102172769/226901284-ec143a4f-32a6-44c0-aee1-b24c74569ab5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
