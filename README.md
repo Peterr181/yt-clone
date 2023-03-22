@@ -4,10 +4,8 @@ Videos are gerenated by dummy data actually because I was using rapid api ,,yout
 
 ## Screenshots
 
-Desktop:
-![obraz](https://user-images.githubusercontent.com/102172769/226901183-0c5d08ff-7cc1-4b44-b73c-b6d3c67871f6.png)
 
-Mobile: 
+![obraz](https://user-images.githubusercontent.com/102172769/226901183-0c5d08ff-7cc1-4b44-b73c-b6d3c67871f6.png)
 ![obraz](https://user-images.githubusercontent.com/102172769/226901284-ec143a4f-32a6-44c0-aee1-b24c74569ab5.png)
 
 
