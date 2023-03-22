@@ -1,0 +1,25 @@
+.mobile__item p {
+  font-size: 2rem;
+}
+
+.mobile__item span {
+  font-size: 1rem;
+}
+
+.mobile__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 3rem;
+  cursor: pointer;
+}
+
+.mobile__sidebar__container {
+  position: fixed;
+  background-color: white;
+  padding-left: 0.2rem;
+  height: 100%;
+  margin-top: 7rem;
+  overflow-y: hidden;
+  padding-bottom: 5rem;
+}

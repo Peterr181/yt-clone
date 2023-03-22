@@ -1,0 +1,17 @@
+.youtube__logo {
+  height: 20px;
+  cursor: pointer;
+}
+
+.youtube__button {
+  font-size: 2.3rem;
+  color: grey;
+  cursor: pointer;
+  transform: translateY(3px);
+}
+
+@media screen and (max-width: 480px) {
+  .youtube__button {
+    display: none;
+  }
+}

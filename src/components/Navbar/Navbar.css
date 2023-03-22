@@ -1,0 +1,27 @@
+.navbar__container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.8rem;
+  align-items: center;
+  margin-left: 2rem;
+  margin-right: 4rem;
+}
+
+.navbar__wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  padding-bottom: 1rem;
+}
+
+.navbar__container__logo__box {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.show2 {
+  display: block;
+}
