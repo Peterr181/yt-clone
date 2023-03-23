@@ -1,7 +1,7 @@
 ## Youtube Clone 🚀
 This app is a simple youtube clone but without all functionalities. It is fully remaked if it is depends on design and mainly design functionality.
 Videos are gerenated by dummy data actually because I was using rapid api ,,youtube v3'' to generate videos by searching from input but I don't have premium plan and daily it's limited to 500 requests. All functionalities in fetching data from api and searching videos in input are included in this code but for now commented. In close future I will play with Youtube API from google and maybe add this functionality. This app is fully responsive for all devices. If you want to use this app with API data you can go ahead to rapid api find youtube v3 and subscribe then put in fetchFromAPI component your code and uncomment code in one component!
-
+:ghost:
 ## Screenshots
 
 
